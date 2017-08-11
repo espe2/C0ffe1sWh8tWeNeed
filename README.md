@@ -1,34 +1,32 @@
-# Project Describtion
+Term Project:
 
-This is a Project of the TH-Bingen in which a traffic simulation some further programming tasks are made using 
+Project of the TH-Bingen in which a simulation some further programming tasks are made using 
 Kotlin, Maven, Git and GitHub.
 
-# Partial tasks:
 
-- Project Infrastructure [V1.0]
-- Simple Traffic Simulation [V2.0]
-- Extend Simulation for an Entire Day [V3.0]
-- Extend Simulation with Various Participants [V4.0]
+It is split into partial tasks:
 
-# Leader/Tutor:
-* [Nicolai Parlog](https://github.com/nicolaiparlog)
+- Project Infrastructure
+- Simple Traffic Simulation
+- Extend Simulation for an Entire Day
+- Extend Simulation with Various Participants
 
-# Developer:
+devoloper:
 
-* [espe2](https://github.com/espe2)
-* [0riginz](https://github.com/0riginz)
-* [chris0197](https://github.com/chris0197)
+- espe2
+- 0riginz
+- chris0197
 
-# Language
+Used Languages:
 
-Code, Comments and Conversations will be in english
-
-# Further Information
-
-- [License](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/LICENSE.md)
-
-- [Code of Conduct](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/CODE_OF_CONDUCT.md)
+Code [english]
+Comments [english]
+Conversation [english]
 
 
-Official End of the project is August 13th.
+[License](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/LICENSE.md)
 
+[Code of Conduct](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/CODE_OF_CONDUCT.md)
+
+
+End of the project is August 13th.
